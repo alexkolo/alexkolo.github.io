@@ -1,3 +1,5 @@
 User-agent: *
 Crawl-delay: 5
 Disallow: /strategic-ai/legal/
+Disallow: /strategic-ai/de/about.html
+Disallow: /strategic-ai/en/about.html
